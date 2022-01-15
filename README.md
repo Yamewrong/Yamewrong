@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=400&section=header&text=Yamewrong&fontAlignY=30&desc=Hacker&descSize=40&descAlignY=50&animation=fadeIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=400&section=header&text=Yamewrong&fontAlignY=30&desc=Vulnerability analyst&descSize=40&descAlignY=50&animation=fadeIn&fontSize=70)
 
 
 
@@ -23,13 +23,13 @@
 
 <h3 align="center"> ☁ Reach Me ☁ </h3>
 <p align="center">
-  <a href="https://www.instagram.com/yamewrong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yame_wrong/"/></a>&nbsp
+  <a href="https://www.instagram.com/yame_wrong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yame_wrong/"/></a>&nbsp
 </p>
 <br>
 
 <p align="center">
     <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangwonhee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYamewrong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </p>
 

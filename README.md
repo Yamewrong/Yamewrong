@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WONHEEZ&fontAlignY=40&desc=developer&descSize=40&descAlignY=50&animation=fadeIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yamewrong&fontAlignY=40&desc=Hacker&descSize=40&descAlignY=50&animation=fadeIn&fontSize=70)
 
 
 
@@ -23,7 +23,7 @@
 
 <h3 align="center"> ☁ Reach Me ☁ </h3>
 <p align="center">
-  <a href="https://www.instagram.com/wonheez/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wonheez/"/></a>&nbsp
+  <a href="https://www.instagram.com/yamewrong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wonheez/"/></a>&nbsp
 </p>
 <br>
 
@@ -36,5 +36,5 @@
 
 <p align="center">
     <img
-        src = "https://github-readme-stats.vercel.app/api?username=yangwonhee&theme=swift&show_icons=true">
+        src = "https://github-readme-stats.vercel.app/api?username=yamewrong&theme=swift&show_icons=true">
 </p>

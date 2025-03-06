@@ -37,7 +37,6 @@
   - 📡 Slack API 활용한 자동화 알림 시스템 구축  
 
 ---
-
 ## 🏆 GitHub Stats  
 
 <p align="center">
@@ -58,25 +57,9 @@
 
 ---
 
-## ☁ Reach Me  
+## 🏆 Baekjoon Tier
 <p align="center">
-  <a href="https://www.instagram.com/yamewrong/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>&nbsp
-  <a href="https://yamewrong.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white"/>
+  <a href="https://solved.ac/profile/Yamewrong">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Yamewrong">
   </a>
-</p>
-
----
-
-<p align="center">
-    <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYamewrong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</p>
-
-<p align="center">
-    <img
-        src = "https://github.com/Yamewrong/Yamewrong/blob/output/github-contribution-grid-snake.svg">
 </p>

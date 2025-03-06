@@ -1,6 +1,7 @@
 # 안녕하세요, 박민용입니다! 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yamewrong&fontAlignY=40&desc=Vulnerability%20Analyst&descSize=30&descAlignY=60&animation=fadeIn&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Yamewrong&fontAlignY=50&desc=Vulnerability%20Analyst&descSize=25&descAlignY=70&animation=fadeIn&fontSize=50)
+
 
 <p align="center">🇰🇷</p>
 
@@ -23,6 +24,14 @@
 </p>
 
 ---
+## 🏆 Awards & Certifications  
+- **데이터안심구역 활용 경진대회 - 장려상** (KDATA-2022)  
+- **우수 프로젝트 경진대회 - 우수상** (현대모비스)  
+- **창의설계경진대회 - 인기상** (세종대학교, SW.AI 중심대학추진단)  
+- **창의설계경진대회 - 동상** (세종대학교, SW.AI 중심대학추진단)  
+- **K-Shield 주니어 8기 수료** (사이버보안 실무인재 양성과정)  
+- **논문 발표**: 클라우드 컴퓨팅을 활용한 안전한 핀테크 인증 및 결제 서비스 구축 방안  
+- **정보처리기사 취득 예정** (2024-11-15)  
 
 ## 🛠 Current & Completed Projects  
 

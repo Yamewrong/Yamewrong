@@ -1,6 +1,7 @@
 # 안녕하세요, 박민용입니다! 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Yamewrong&fontAlignY=50&desc=Vulnerability%20Analyst&descSize=25&descAlignY=70&animation=fadeIn&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:1f2937&height=200&section=header&text=Yamewrong&fontAlignY=50&desc=Vulnerability%20Analyst&descSize=25&descAlignY=70&animation=fadeIn&fontSize=50&fontColor=ffffff)
+
 
 
 <p align="center">🇰🇷</p>

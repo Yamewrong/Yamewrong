@@ -1,6 +1,6 @@
 # 안녕하세요, 박민용입니다! 👋
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=200&section=header&text=Yamewrong&fontAlignY=50&desc=Cybersecurity%20Specialist%20%7C%20Security%20Researcher&descSize=25&descAlignY=70&animation=fadeIn&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=200&section=header&text=Yamewrong&fontAlignY=50&desc=Cybersecurity%20Specialist%20.jr%20%7C%20Security%20Researcher%20.jr&descSize=25&descAlignY=70&animation=fadeIn&fontSize=50&fontColor=ffffff)
 
 
 
